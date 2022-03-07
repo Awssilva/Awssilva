@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandre Silva;
-- 👀 I’m interested in FullStack Development;
-- 🌱 I’m currently learning PHP using the framework Laravel;
+- 👀 I’m interested in Front-end and Back-end Development;
+- 🌱 I’m currently learning PHP using the framework Laravel, Vuejs, Docker, Aws, Gcp;
 - ☝️  Only one way.
 <div align="center">
   <a href="https://github.com/Awssilva">
