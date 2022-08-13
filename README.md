@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexandre Silva;
 - 👀 I’m interested in Front-end and Back-end Development;
-- 🌱 I’m currently learning PHP using the framework Laravel, Vuejs, Docker, Aws, Gcp;
+- 🌱 I’m currently learning Go
+- It's work using the framework Laravel, Vuejs, Docker, Aws, Gcp;
 - ☝️  Only one way.
 
   
