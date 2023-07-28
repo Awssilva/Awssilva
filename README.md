@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Alexandre, a Back-end developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Alexandre, a DevOps learning about cloud services and their architecture 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Awssilva](https://github.com/awssilva)  
   
 
-- 🌱 I’m currently learning Microservices and Go.  
+- 🌱 I’m currently learning Amazon Web Services and cloud computing concepts.  
   
 
 - ❓ Ask  
